@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3sw5BpmkjD+CdZ7bpt2FMl9dA4eW1rmEv1Cck59pTw6i1zeEzmKXVZFSttOf40E51Ys0cAZ6PxB3zWUutCXYGA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\.NET\\Sitronics\\Sitronics\\Sitronics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lentilles\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lentilles\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
